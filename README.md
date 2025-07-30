@@ -2,7 +2,7 @@
 
 <!-- (This is a comment) INSTRUCTIONS: Go through this page and fill out any **bolded** entries with their correct values.-->
 
-# AND101 Project 6 - CYOAPI Part 2: RecyclerView Edition
+# AND101 Project 6 & 7 - CYOAPI Part 2 & 3: RecyclerView Edition and Beautified
 
 Submitted by: **Nargiz Akhmetova**
 
