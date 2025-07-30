@@ -17,20 +17,17 @@ Nasa API App that shows description of the random chosen by NASA images and thei
 <!-- (This is a comment) Please be sure to change the [ ] to [x] for any features you completed.  If a feature is not checked [x], you might miss the points for that item! -->
 
 The following REQUIRED features are completed:
-
+Project 6
 - [x] Make an API call to an API of your choice using AsyncHTTPClient
 - [x] Implement a RecyclerView to display a list of entries from the API
 - [x] Display at least three (3) pieces of data for each RecyclerView item
 
-The following STRETCH features are implemented:
-
-- [ ] Add a UI element for the user to interact with API further
-- [ ] Show a `Toast` or `Snackbar` when an item is clicked
-- [ ] Add item dividers with `DividerItemDecoration`
-
-The following EXTRA features are implemented:
-
-- [ ] List anything else that you added to improve the app!
+Project 7
+- [x] App contains a RecyclerView that displays a list of scrollable data
+- [x] App displays at least two (2) pieces of data for each RecyclerView item
+- [x] Use a downloadable font with custom color and size
+- [x] Modify the theme of the app in `themes.xml`
+- [x] Define and apply at least one style in **either** `themes.xml` or a new file `styles.xml`
 
 ## Video Demo
 
@@ -38,7 +35,7 @@ Here's a video / GIF that demos all of the app's implemented features:
 
 <img src='https://drive.google.com/uc?id=1KZFJAUo-ZQ3JVHX132FqDInvWg9CdJPI' title='Video Demo' width='' alt='Video Demo' />
 
-Link to the DEMO VIDEO - https://drive.google.com/file/d/1KZFJAUo-ZQ3JVHX132FqDInvWg9CdJPI/view?usp=sharing
+Link to the DEMO VIDEO project 7 - https://drive.google.com/file/d/1RM6dq_n-h4UkkTf08IzZcjebBABS6c7a/view?usp=sharing
 
 GIF created with **your chosen GIF tool**
 
