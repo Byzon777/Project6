@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/values/styles.xml -->
+<resources>
+    <!-- Reusable style for APOD titles -->
+    <style name="ApodTitleText">
+        <item name="android:textSize">17sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#AF6610E4</item>
+    </style>
+
+    <!-- Reusable style for APOD descriptions -->
+    <style name="ApodDescriptionText">
+        <item name="android:textSize">13sp</item>
+        <item name="android:textColor">#A30F215B</item>
+    </style>
+</resources>

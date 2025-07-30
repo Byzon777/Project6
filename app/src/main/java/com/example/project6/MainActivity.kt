@@ -82,7 +82,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun fetchApodData(recyclerView: RecyclerView) {
-        apiService.getRandomApod(apiKey, 10).enqueue(object : Callback<List<NasaApod>> {
+        apiService.getRandomApod(apiKey, 15).enqueue(object : Callback<List<NasaApod>> {
             override fun onResponse(call: Call<List<NasaApod>>, response: Response<List<NasaApod>>) {
                 if (response.isSuccessful && response.body() != null) {
                     recyclerView.adapter = ApodAdapter(response.body()!!)
